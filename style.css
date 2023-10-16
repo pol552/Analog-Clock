@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: radial-gradient(circle, #0b456b, #021c37);
+    background: radial-gradient(circle, #0b456b, #020202);
 }
 
 .clock {
@@ -22,7 +22,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: radial-gradient(circle, #05263c, #000d1a);
+    background: radial-gradient(circle, #05263c, #020202);
 }
 
 .clock::before {
